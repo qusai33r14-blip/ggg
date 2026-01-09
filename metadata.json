@@ -1,0 +1,7 @@
+{
+  "name": "Monitoring System",
+  "description": "Spiritual monitoring system for habits and attendance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
